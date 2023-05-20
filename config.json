@@ -1,0 +1,14 @@
+{
+  "MYSQL": {
+    "HOST": "localhost",
+    "PORT": 3306,
+    "USER": "",
+    "PASSWORD": "",
+    "DB": "bootcampalarm",
+    "CHARSET": "utf8"
+  },
+  "SERVER": {
+    "HOST": "localhost",
+    "PORT": "8080"
+  }
+}
